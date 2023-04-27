@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar{
+    background-image: url(./assets/images/bg-rypto.png);
+}
+.hero{
+    background-image: url(./assets/images/bg-rypto.png);
+}
+.whatwedo{
+    background-image: url(./assets/images/bg-rypto.png);
+}
+.features{
+    background-image: url(./assets/images/crypto-bg-234.png);
+}
+.learncrypto{
+    background-image: url(./assets/images/bg-rypto.png);
+}
+#curve{
+    border-radius: 20px 20px 20px 20px !important;
+} 
+#learn{
+    color: orangered;
+} 
+.whyus{
+    background-image: url(./assets/images/crypto-bg-234.png); 
+} 
+
+.testimonials{
+    background-image: url(./assets/images/bg-rypto.png);
+}
+#testimonialscontainer{
+    border-radius: 20px 20px 20px 20px !important;
+    max-width: 500px;
+    overflow: hidden;
+}
+.faq{
+    background-image: url(./assets/images/crypto-bg-234.png); 
+}
+.footer{
+    background-image: url(./assets/images/bg-rypto.png);
+}
+#navbarNav{
+    margin-left: 25%;
+}
